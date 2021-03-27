@@ -7,6 +7,9 @@ My environment
 
 1. How to Build
 ---------------
+First clone the repo with the below command:
+git clone https://github.com/kum0s/the-clearing-house.git
+
 From project root dir, run the below command:
 ./gradlew clean build
 
